@@ -1,0 +1,1295 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F5F6F8",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <RCTSafeAreaView
+    emulateUnlessSupported={true}
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "paddingHorizontal": 18,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#008080",
+            "fontSize": 49.358,
+            "paddingVertical": 16.008,
+          }
+        }
+      >
+         RESTART 
+      </Text>
+    </View>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#008080",
+            "fontSize": 49.358,
+            "paddingVertical": 16.008,
+          },
+        ]
+      }
+    >
+       STEPS:
+      <Text>
+        0
+      </Text>
+       
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "height": 1067.2,
+        "justifyContent": "center",
+        "marginHorizontal": 11.25,
+        "width": "100%",
+      }
+    }
+  >
+    <RCTScrollView
+      data={
+        Array [
+          49,
+          38,
+          51,
+          17,
+          51,
+          52,
+          38,
+          52,
+          49,
+          17,
+        ]
+      }
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    49
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    38
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    51
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    17
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    51
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    52
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    38
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    52
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    49
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderRadius": 10,
+                  "height": 269.468,
+                  "margin": 8.25,
+                  "width": 225,
+                }
+              }
+            >
+              <View
+                accessible={true}
+                focusable={false}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "position": "absolute",
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "white",
+                      "borderColor": "black",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": -89,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "180deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    17
+                  </Text>
+                </View>
+              </View>
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  forwardedRef={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#008080",
+                      "borderColor": "#FFFFFF",
+                      "borderRadius": 10,
+                      "borderWidth": 3,
+                      "height": 266.8,
+                      "justifyContent": "center",
+                      "opacity": 90,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 225,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 40.019999999999996,
+                        "fontWeight": "bold",
+                      }
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 0,
+            }
+          }
+        />
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

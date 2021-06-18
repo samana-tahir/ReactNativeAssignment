@@ -68,6 +68,7 @@ export default class App extends Component {
         outputRange: [0, 1]
       })
     })
+        
         this.setState({ steps: 0 })
   }
 
